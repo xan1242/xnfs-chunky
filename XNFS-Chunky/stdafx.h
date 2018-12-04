@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <tchar.h>
 
-#define BUILDVER 1
+#define BUILDVER 2
 #define PRINTTYPEINFO "INFO:"
 #define PRINTTYPEERROR "ERROR:"
 #define PRINTTYPEWARNING "WARNING:"
